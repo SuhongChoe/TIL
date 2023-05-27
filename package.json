@@ -8,6 +8,7 @@
     "deploy": "yarn build && gh-pages -d build -b gh-pages"
   },
   "dependencies": {
-    "vuepress": "^1.3.0"
+    "vuepress": "^1.3.0",
+    "sockjs-client": "1.6.1"
   }
 }
